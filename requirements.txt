@@ -1,5 +1,5 @@
 docxtpl==0.6.4
-Jinja2==2.11.1
+Jinja2==2.11.3
 jinja2schema==0.1.4
 lxml==4.5.0
 MarkupSafe==1.1.1
